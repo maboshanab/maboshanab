@@ -8,6 +8,10 @@ I’m an entrepreneur working across AI-powered visa application preparation and
 - [Global Expat](https://globalexpat.net) focuses on international real estate, property investment and related consultations and specialist referrals. [Global Expat on GitHub](https://github.com/GlobalExpat)
 - [Great London](https://great.london) focuses on global cities research and policy, with London as a point of reference. [Great London on GitHub](https://github.com/GreatLondonHQ)
 
+## Public links
+
+[Official founder link directory](https://linktr.ee/moaboshanab)
+
 ## بالعربية
 
 محمد أبو شنب رائد أعمال يعمل في مجال تجهيز طلبات التأشيرات بالذكاء الاصطناعي والعقارات الدولية. أسس شركتين مستقلتين، VISXA وGlobal Expat. وتُعد Great London مبادرة منفصلة تُعنى بأبحاث المدن والسياسات الحضرية.
