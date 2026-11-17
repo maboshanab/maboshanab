@@ -22,3 +22,11 @@ Public translations: [Ask Mo in additional languages](https://github.com/mabosha
 تطوّر VISXA أدوات لتجهيز طلبات التأشيرات بالعربية والإنجليزية، وتبدأ بتجربة خاصة بالدعوة لتأشيرة الزيارة البريطانية، كما [ترحب بمتطوعين للاختبار](https://github.com/VISXAhq/.github/blob/main/beta-testers/README.md) مع إعفاء رسوم خدمة VISXA للمختارين، دون الرسوم الحكومية أو رسوم الجهات الأخرى. وتركز Global Expat على العقارات والاستثمار العقاري الدولي والاستشارات والإحالات إلى متخصصين.
 
 و«Ask Mo» (اسأل مو) مشروع مساعد ذكاء اصطناعي قيد التخطيط، يستند إلى خبراتي التي تتجاوز 20 عاماً، ويتيح استقبال [الأسئلة والاقتراحات العامة](https://github.com/maboshanab/maboshanab/issues/1). لم تُطلق خدمة محادثة عامة بعد، وستظل التقنية الأساسية مغلقة المصدر.
+
+## VISXA for Good | VISXA من أجل الخير
+
+[VISXA for Good](https://visxa.org/) is a distinct social-impact initiative from VISXA, Inc., exploring responsible technology and more accessible multilingual mobility information. Its informational website is available in [English](https://visxa.org/en/) and [Arabic](https://visxa.org/ar/); programmes and tools remain in development.
+
+Technology for Humanity. Mobility for Everyone.
+
+[VISXA من أجل الخير](https://visxa.org/ar/) مبادرة ذات أثر اجتماعي من VISXA, Inc. تستكشف استخدام التكنولوجيا بمسؤولية وتيسير الوصول إلى معلومات التنقّل بلغات متعددة. الموقع التعريفي متاح بالعربية والإنجليزية، بينما تظل البرامج والأدوات قيد التطوير.
