@@ -1,5 +1,7 @@
 # Ask Mo — Mohamed Aboshanab's AI Assistant
 
+[Read the Ask Mo introduction in 12 additional written-language variants](https://github.com/maboshanab/maboshanab/blob/main/projects/ask-mo/i18n/README.md). These are public information drafts only; a public chatbot has not launched.
+
 Ask Mo is a developing personal AI assistant brand built around Mohamed Aboshanab ("Mo") and more than 20 years of his experience in entrepreneurship, international living, global mobility, cross-border business, technology, and building communities.
 
 The idea is straightforward: make practical, experience-informed answers easier to discover and reuse, while keeping important decisions, sensitive information, and specialist services under human oversight.
