@@ -36,7 +36,7 @@ These integrations are ideas, not claims that an Ask Mo service is currently ope
 
 What would you ask Mo? Which real-world question, practical guide, or AI assistant feature would help you most?
 
-[Suggest a topic or idea on GitHub](https://github.com/maboshanab/maboshanab/issues/new). Please share only general ideas and public information — never passwords, personal documents, client details, or confidential case information.
+[Suggest a topic or idea on GitHub](https://github.com/maboshanab/maboshanab/issues/1). Please share only general ideas and public information — never passwords, personal documents, client details, or confidential case information.
 
 ## About Mohamed Aboshanab
 
@@ -51,7 +51,7 @@ Mohamed Aboshanab (Mo) is an entrepreneur and founder working across AI-powered 
 
 "Ask Mo" (اسأل مو) فكرة لمساعد ذكي مرتبط بمحمد أبو شنب، يهدف إلى مشاركة المعرفة والخبرات العملية التي اكتسبها خلال أكثر من 20 عاماً في ريادة الأعمال، والحياة والعمل عبر الحدود، والتنقل الدولي، والتكنولوجيا.
 
-الفكرة في مرحلة التخطيط وليست خدمة محادثة متاحة حالياً. يمكنكم اقتراح أسئلة وموضوعات عامة من خلال [صفحة الاقتراحات](https://github.com/maboshanab/maboshanab/issues/new)، من دون مشاركة بيانات شخصية أو ملفات سرية.
+الفكرة في مرحلة التخطيط وليست خدمة محادثة متاحة حالياً. يمكنكم اقتراح أسئلة وموضوعات عامة من خلال [صفحة الاقتراحات](https://github.com/maboshanab/maboshanab/issues/1)، من دون مشاركة بيانات شخصية أو ملفات سرية.
 
 كل من VISXA وGlobal Expat شركة مستقلة عن الأخرى، وأي استخدام مستقبلي للمساعد سيحافظ على استقلال البيانات والصلاحيات والهوية. ولا تُعد المعلومات العامة بديلاً عن الاستشارة القانونية أو الضريبية أو المالية المتخصصة.
 
