@@ -1,32 +1,73 @@
-# Mohamed Aboshanab
+# Mohamed Aboshanab (Mo) — AI, Entrepreneurship & Global Real Estate
 
-I’m an entrepreneur working across AI-powered visa application preparation and international real estate. I founded two independent companies, VISXA, Inc. and Global Expat, Inc. Great London is a separate initiative.
+I'm Mohamed Aboshanab, a founder and educator working in technology, international business, property and practical online learning. I founded [VISXA, Inc.](https://visxa.com/en) and [Global Expat, Inc.](https://globalexpat.net/), two independent US companies. [Great London](https://great.london) is a separate cities-research initiative. [Ask Mo](https://github.com/maboshanab/maboshanab/blob/main/projects/ask-mo/README.md) is an independent personal AI knowledge concept under development.
 
-## Projects
+## Official personal profiles and public links
 
-Public translations: [Ask Mo in additional languages](https://github.com/maboshanab/maboshanab/blob/main/projects/ask-mo/i18n/README.md) · [VISXA beta invitation in additional languages](https://github.com/VISXAhq/.github/blob/main/beta-testers/i18n/README.md). These pages are informational; they do not indicate live multilingual app support.
+- [English personal link directory](https://linktr.ee/moaboshanab) · [الروابط الشخصية بالعربية](https://linktr.ee/mohamedaboshanabmena)
+- [LinkedIn](https://www.linkedin.com/in/moaboshanab) · [GitHub](https://github.com/maboshanab) · [GitLab](https://gitlab.com/maboshanab)
+- [Medium — articles](https://moaboshanab.medium.com/) · [YouTube](https://www.youtube.com/channel/UCh5iTr0ppRVqL8r-LG2ZjTQ) · [X](https://x.com/MoAboshanab_)
+- [Luma — events](https://luma.com/user/MoAboshanab)
 
-- [Ask Mo](https://github.com/maboshanab/maboshanab/blob/main/projects/ask-mo/README.md) is a planned, closed-source AI assistant and knowledge project built around more than 20 years of my experience. It welcomes [public ideas and questions](https://github.com/maboshanab/maboshanab/issues/1); no public chatbot has launched yet.
-- [VISXA](https://visxa.com) develops English and Arabic UK Standard Visitor visa preparation tools and is inviting [beta testers](https://github.com/VISXAhq/.github/blob/main/beta-testers/README.md). Selected, confirmed testers receive a waiver of VISXA's own preparation fee; government and third-party fees remain separate. The current private beta uses sample documents only. [VISXA on GitHub](https://github.com/VISXAhq)
-- [Global Expat](https://globalexpat.net) focuses on international real estate, property investment and related consultations and specialist referrals. [Global Expat on GitHub](https://github.com/GlobalExpat)
-- [Great London](https://great.london) focuses on global cities research and policy, with London as a point of reference. [Great London on GitHub](https://github.com/GreatLondonHQ)
+The link directories also point to additional public channels. Older posts and third-party pages may reflect earlier career stages.
 
-## Public links
+## Courses, reading and creator resources
 
-[Official founder link directory](https://linktr.ee/moaboshanab)
+These are personal educational channels, not products owned by either company.
 
-## بالعربية
+- [Gumroad — personal courses in English](https://moaboshanab.gumroad.com/) · [دورات Gumroad بالعربية](https://aboshanabmena.gumroad.com/)
+- [Global Personal Branding — positioning, profiles and online presence](https://moaboshanab.gumroad.com/l/globalbranding) (personal Gumroad course)
+- [Udemy — English instructor](https://www.udemy.com/user/mohamed-aboshanab-33/) · [Udemy — العربية](https://www.udemy.com/user/mhmd-bwshnb-2/)
+- [Skillshare educator](https://www.skillshare.com/en/r/user/moaboshanab)
+- [Amazon creator storefront — UK](https://www.amazon.co.uk/shop/influencer-82336e81) · [US](https://www.amazon.com/shop/influencer-82336e81?creatorsDisableRedirect=true) (affiliate commissions may be earned; this is not a published-book catalogue)
 
-محمد أبو شنب رائد أعمال يعمل في مجال تجهيز طلبات التأشيرات بالذكاء الاصطناعي والعقارات الدولية. أسس شركتين مستقلتين، VISXA وGlobal Expat. وتُعد Great London مبادرة منفصلة تُعنى بأبحاث المدن والسياسات الحضرية.
+Course availability and pricing are controlled by the linked platforms. Educational content is not personal immigration, legal, tax or investment advice.
 
-تطوّر VISXA أدوات لتجهيز طلبات التأشيرات بالعربية والإنجليزية، وتبدأ بتجربة خاصة بالدعوة لتأشيرة الزيارة البريطانية، كما [ترحب بمتطوعين للاختبار](https://github.com/VISXAhq/.github/blob/main/beta-testers/README.md) مع إعفاء رسوم خدمة VISXA للمختارين، دون الرسوم الحكومية أو رسوم الجهات الأخرى. وتركز Global Expat على العقارات والاستثمار العقاري الدولي والاستشارات والإحالات إلى متخصصين.
+## What I build — separate public identities
 
-و«Ask Mo» (اسأل مو) مشروع مساعد ذكاء اصطناعي قيد التخطيط، يستند إلى خبراتي التي تتجاوز 20 عاماً، ويتيح استقبال [الأسئلة والاقتراحات العامة](https://github.com/maboshanab/maboshanab/issues/1). لم تُطلق خدمة محادثة عامة بعد، وستظل التقنية الأساسية مغلقة المصدر.
+### VISXA, Inc. — UK visitor visa preparation technology
 
-## VISXA for Good | VISXA من أجل الخير
+[VISXA](https://visxa.com/en) helps people prepare their UK Standard Visitor applications in English and Arabic. Beta places are limited; applicants [apply to join](https://visxa.com/en/apply). Applicants check and submit their own forms on GOV.UK; only the government decides visa outcomes. VISXA is not a government service and does not provide immigration advice.
 
-[VISXA for Good](https://visxa.org/) is a distinct social-impact initiative from VISXA, Inc., exploring responsible technology and more accessible multilingual mobility information. Its informational website is available in [English](https://visxa.org/en/) and [Arabic](https://visxa.org/ar/); programmes and tools remain in development.
+[Company GitHub](https://github.com/VISXAhq) · [Company GitLab](https://gitlab.com/visxa/gitlab-profile) · [VISXA Academy](https://visxa.com/en/academy) · [UK visitor guides](https://visxa.com/en/guides) · [Free document checklist](https://visxa.com/en/uk-visitor-visa/checklist)
 
-Technology for Humanity. Mobility for Everyone.
+### Global Expat, Inc. — international real estate
 
-[VISXA من أجل الخير](https://visxa.org/ar/) مبادرة ذات أثر اجتماعي من VISXA, Inc. تستكشف استخدام التكنولوجيا بمسؤولية وتيسير الوصول إلى معلومات التنقّل بلغات متعددة. الموقع التعريفي متاح بالعربية والإنجليزية، بينما تظل البرامج والأدوات قيد التطوير.
+[Global Expat](https://globalexpat.net/) focuses on buying, selling, renting and researching international property, with specialist consultations and referrals where appropriate. Its [Arabic website](https://globalexpat.net/ar/), [property resources](https://globalexpat.net/property/) and [practical guides](https://globalexpat.net/guides/) explain the current services. Global Expat is independent of VISXA.
+
+[Company GitHub](https://github.com/GlobalExpat) · [Company GitLab](https://gitlab.com/GlobalExpat/gitlab-profile)
+
+### Ask Mo, Great London and VISXA for Good
+
+- [Ask Mo — public concept and guidelines](https://github.com/maboshanab/maboshanab/blob/main/projects/ask-mo/README.md) · [GitLab public introduction](https://gitlab.com/maboshanab/maboshanab/-/blob/main/projects/ask-mo/README.md) · [informational translations](https://github.com/maboshanab/maboshanab/blob/main/projects/ask-mo/i18n/README.md) · [suggest a public idea](https://github.com/maboshanab/maboshanab/issues/1). Ask Mo's personal technology is closed-source; these public resources are not a launched standalone chatbot.
+- [Great London](https://great.london) is separate research into global cities and urban policy.
+- [VISXA for Good](https://visxa.org/en/) · [العربية](https://visxa.org/ar/) is a planned social-impact initiative of VISXA, Inc.; no active programmes or government partnerships are implied.
+
+## Frequently asked questions
+
+### Who is Mohamed Aboshanab?
+A founder and educator working across technology, international business and property, and the founder of independent companies VISXA, Inc. and Global Expat, Inc.
+
+### Are VISXA and Global Expat the same company?
+No. They are separate companies with different official websites, products and services.
+
+### Where are the personal courses?
+On the English and Arabic Gumroad pages and Udemy or Skillshare profiles linked above. The Amazon creator page features product recommendations, not necessarily published books.
+
+### Is Ask Mo open source?
+No. The publicly linked README and translations describe the proposed independent personal concept; the core technology and business records remain private.
+
+## بالعربية — محمد أبو شنب
+
+أنا محمد أبو شنب، رائد أعمال ومؤسس شركتَي [VISXA](https://visxa.com/ar) و[Global Expat](https://globalexpat.net/ar/) المستقلتين. أعمل في التكنولوجيا والذكاء الاصطناعي والعقارات الدولية والتعليم العملي. ومشروع «Ask Mo» مبادرة شخصية مستقلة قيد التطوير، بينما Great London مبادرة منفصلة لأبحاث المدن.
+
+- [دليل الروابط الشخصية بالعربية](https://linktr.ee/mohamedaboshanabmena) · [الروابط بالإنجليزية](https://linktr.ee/moaboshanab)
+- [دورات Gumroad بالعربية](https://aboshanabmena.gumroad.com/) · [Udemy بالعربية](https://www.udemy.com/user/mhmd-bwshnb-2/)
+- [VISXA بالعربية](https://visxa.com/ar) · [طلب الانضمام لتجربة VISXA](https://visxa.com/ar/apply)
+- [Global Expat بالعربية](https://globalexpat.net/ar/) · [VISXA من أجل الخير](https://visxa.org/ar/)
+
+المحتوى التعليمي معلومات عامة ولا يمثل استشارة شخصية في الهجرة أو القانون أو الضرائب أو الاستثمار.
+
+---
+
+Public information only. Never post client records, passwords, internal project files, unpublished manuscripts, government identifiers, payment data or private source code here. Last public-link review: 23 November 2026.
