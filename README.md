@@ -2,6 +2,10 @@
 
 I'm Mohamed Aboshanab, a founder and educator working in technology, international business, property and practical online learning. I founded [VISXA, Inc.](https://visxa.com/en) and [Global Expat, Inc.](https://globalexpat.net/), two independent US companies. [Great London](https://great.london) is a separate cities-research initiative. [Ask Mo](https://github.com/maboshanab/maboshanab/blob/main/projects/ask-mo/README.md) is an independent personal AI knowledge concept under development.
 
+## Books by Mohamed Aboshanab
+
+[Global Personal Branding: A Practical Guide to Building Your International Presence](books/global-personal-branding/README.md) — read the story behind the book, find the English Kindle and paperback editions, and try the introduction exercise in your language.
+
 ## Official personal profiles and public links
 
 - [English personal link directory](https://linktr.ee/moaboshanab) · [الروابط الشخصية بالعربية](https://linktr.ee/mohamedaboshanabmena)
