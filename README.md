@@ -72,6 +72,17 @@ No. The publicly linked README and translations describe the proposed independen
 
 المحتوى التعليمي معلومات عامة ولا يمثل استشارة شخصية في الهجرة أو القانون أو الضرائب أو الاستثمار.
 
+## Public resource library and WordPress publications
+
+Explore the [public resource library](public-resources/README.md) for ten practical topic guides, English and Arabic summaries, and [public websites and WordPress references](public-resources/PUBLIC_LINKS.md). These are educational resources; the official website remains the source for current services and availability.
+
+- [English personal website](https://mohamedaboshanabcom.wordpress.com/)
+- [الموقع العربي](https://aboshanabmena.wordpress.com/)
+- [Ask Mo Field Notes](https://maboshanab.wordpress.com/)
+- [Global Beam historical archive](https://globalbeam1.wordpress.com/)
+- [NEWTEAM historical archive](https://newteamofficial.wordpress.com/)
+- [NEWBORDER historical archive](https://newborderofficial.wordpress.com/)
+
 ---
 
 Public information only. Never post client records, passwords, internal project files, unpublished manuscripts, government identifiers, payment data or private source code here. Last public-link review: 23 November 2026.
