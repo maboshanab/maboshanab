@@ -5,3 +5,5 @@
 - Introduced ten topic guides with practical questions, educational examples and short Arabic summaries.
 - Added a public link directory with relevant published WordPress pages and official resources.
 - Added the content and corrections policy. No application code, private data or production changes are included.
+
+- Added 26 localized starter guides and additional published WordPress article references; native-language review pending.

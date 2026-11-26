@@ -41,3 +41,25 @@ Published 2026-11-26. Links are grouped by their subject and editorial purpose. 
 - [Goodreads author page](https://www.goodreads.com/author/show/74131194.Mohamed_Aboshanab)
 
 Only published, relevant public resources are included. No staging, private review, draft, payment, admin, or confidential links belong here.
+
+## Further published WordPress articles and pages
+
+- [English bio from Arabic](https://mohamedaboshanabcom.wordpress.com/2026/11/25/write-english-bio-from-arabic/)
+- [Build trust before a first remote meeting](https://mohamedaboshanabcom.wordpress.com/2026/11/25/build-trust-first-remote-meeting/)
+- [Write a professional bio across cultures](https://mohamedaboshanabcom.wordpress.com/2026/11/25/write-professional-bio-across-cultures/)
+- [Introduce yourself across borders](https://mohamedaboshanabcom.wordpress.com/2026/11/25/how-to-introduce-yourself-when-you-work-across-borders/)
+- [Search results for your own name](https://mohamedaboshanabcom.wordpress.com/2026/11/26/what-shows-up-when-clients-search-my-name/)
+- [LinkedIn headline for two businesses](https://mohamedaboshanabcom.wordpress.com/2026/11/26/how-to-write-a-linkedin-headline-when-you-run-two-businesses/)
+- [Personal knowledge library ideas](https://mohamedaboshanabcom.wordpress.com/2026/11/22/personal-knowledge-library-ideas/)
+- [Keeping independent ventures separate](https://mohamedaboshanabcom.wordpress.com/2026/11/22/independent-ventures-brand-data-boundaries/)
+- [Building a beta without overpromising](https://mohamedaboshanabcom.wordpress.com/2026/11/22/building-a-beta-without-overpromising/)
+- [Responsible AI](https://mohamedaboshanabcom.wordpress.com/2026/11/22/responsible-ai-beyond-the-answer/)
+- [Cross-border property questions](https://mohamedaboshanabcom.wordpress.com/2026/11/22/cross-border-property-due-diligence-questions/)
+- [Author's CodeX listing update note](https://mohamedaboshanabcom.wordpress.com/2026/11/26/why-i-asked-stanfords-codex-techindex-to-update-visxas-profile/)
+- [الموارد العربية: الكتاب والدورات](https://aboshanabmena.wordpress.com/2026/11/26/arabic-learning-book-and-courses/)
+- [اسأل مو بالعربية](https://aboshanabmena.wordpress.com/2026/11/26/ask-mo-arabic-community-visxa/)
+- [من لندن إلى القاهرة: الكتاب](https://aboshanabmena.wordpress.com/2026/11/25/%d9%85%d9%86-%d9%84%d9%86%d8%af%d9%86-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d9%83%d9%8a%d9%81-%d8%aa%d8%b3%d8%aa%d8%ae%d8%af%d9%85-%d9%83%d8%aa%d8%a7%d8%a8-global-personal-br/)
+- [Ask Mo courses](https://maboshanab.wordpress.com/courses/)
+- [Ask Mo experiment notebook (public page)](https://maboshanab.wordpress.com/experiments/)
+- [Historical internet context](https://globalbeam1.wordpress.com/2026/11/26/internet-in-2000/)
+- [NEWTEAM international property ideas](https://newteamofficial.wordpress.com/international-property-ideas/)

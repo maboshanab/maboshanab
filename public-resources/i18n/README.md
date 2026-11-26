@@ -1,0 +1,32 @@
+# Multilingual starter guides — Mohamed Aboshanab / Ask Mo
+
+2026-11-26 | 26 language editions, including English and Arabic. These are localized introductory learning pages, not full translations of all ten guides. AI-assisted translations need native-language review; no translated book or course edition is implied.
+
+- [English — Personal branding, entrepreneurship and Ask Mo](en.md)
+- [العربية — العلامة الشخصية وريادة الأعمال وآسك مو](ar.md)
+- [Español — Marca personal internacional, emprendimiento y Ask Mo](es.md)
+- [Français — Marque personnelle internationale, entrepreneuriat et Ask Mo](fr.md)
+- [Deutsch — Internationale Personenmarke, Unternehmertum und Ask Mo](de.md)
+- [Italiano — Personal branding internazionale, imprenditorialità e Ask Mo](it.md)
+- [Português — Marca pessoal internacional, empreendedorismo e Ask Mo](pt.md)
+- [Nederlands — Internationale personal branding, ondernemerschap en Ask Mo](nl.md)
+- [Türkçe — Uluslararası kişisel marka, girişimcilik ve Ask Mo](tr.md)
+- [Русский — Международный личный бренд, предпринимательство и Ask Mo](ru.md)
+- [Українська — Міжнародний персональний бренд, підприємництво та Ask Mo](uk.md)
+- [Polski — Międzynarodowa marka osobista, przedsiębiorczość i Ask Mo](pl.md)
+- [Ελληνικά — Διεθνές προσωπικό προφίλ, επιχειρηματικότητα και Ask Mo](el.md)
+- [हिन्दी — अंतरराष्ट्रीय व्यक्तिगत ब्रांडिंग, उद्यमिता और Ask Mo](hi.md)
+- [اردو — بین الاقوامی ذاتی برانڈنگ، کاروبار اور Ask Mo](ur.md)
+- [বাংলা — আন্তর্জাতিক ব্যক্তিগত ব্র্যান্ডিং, উদ্যোক্তা ও Ask Mo](bn.md)
+- [Bahasa Indonesia — Personal branding internasional, kewirausahaan, dan Ask Mo](id.md)
+- [简体中文 — 国际个人品牌、创业与 Ask Mo](zh-Hans.md)
+- [繁體中文 — 國際個人品牌、創業與 Ask Mo](zh-Hant.md)
+- [日本語 — 国際的なパーソナルブランディング、起業、Ask Mo](ja.md)
+- [한국어 — 국제 퍼스널 브랜딩, 창업과 Ask Mo](ko.md)
+- [Kiswahili — Chapa binafsi ya kimataifa, ujasiriamali na Ask Mo](sw.md)
+- [Tiếng Việt — Thương hiệu cá nhân quốc tế, khởi nghiệp và Ask Mo](vi.md)
+- [ไทย — การสร้างแบรนด์ส่วนบุคคลระดับนานาชาติ การเป็นผู้ประกอบการ และ Ask Mo](th.md)
+- [فارسی — برندسازی شخصی بین‌المللی، کارآفرینی و Ask Mo](fa.md)
+- [Filipino — Pandaigdigang personal branding, pagnenegosyo at Ask Mo](fil.md)
+
+[Main resource library](../README.md) · [Editorial policy](../PUBLICATION_POLICY.md)

@@ -15,6 +15,10 @@ Original introductory worksheets, public documentation and educational reference
 - [AI for entrepreneurs: a safe evaluation checklist](ai-for-entrepreneurs/README.md) — How do I evaluate an AI tool for a small business?
 - [Great London: a method for comparing global cities](great-london-research/README.md) — How can researchers compare cities fairly?
 
+## Multilingual resources
+
+- [Read the localized starter guides in 26 languages](i18n/README.md), including Ask Mo, personal branding and entrepreneurship.
+
 ## Public references
 
 - [Official and WordPress link directory](PUBLIC_LINKS.md)
